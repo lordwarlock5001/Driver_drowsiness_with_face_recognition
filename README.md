@@ -1,7 +1,7 @@
 # Driver_drowsiness_with_face_recognition
 # How to use
 <ol>
-<li>Install all packages.</li>
+<li>$ pip install -r requirements.txt (install all packages).</li>
 <li>Run GUI_DD.py file(python GUI_DD.py).</li>
 <li>Click on start button(for capture the frames from webcam).</li>
 <li>Click on stop button to stop frames.</li>
