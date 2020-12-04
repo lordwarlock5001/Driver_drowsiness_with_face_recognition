@@ -18,7 +18,7 @@
 </ol>
 
 # Screenshots
-<div style="width:100%;text-align: center;background-color: coral;">
+<div style="width:100%;background-color: black;align-content: center">
 <h3>Main Page:</h3><br />
 <img src="main.PNG" height="400px" width="500px"><br />
 <h3>Main Page With Frames:</h3><br />
