@@ -28,6 +28,7 @@
 <h3>Line Chart:</h3>
 <img src="line_chart.png" height="400px" width="500px"><br />
 </div>
+
 # References
 <ul>
 <li>
