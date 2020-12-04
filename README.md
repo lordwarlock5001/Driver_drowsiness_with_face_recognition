@@ -18,14 +18,14 @@
 </ol>
 
 # Screenshots
-<div style="width:100%;" align=”center”>
-<h3>Main Page:</h3><br />
+<div>
+<h3>Main Page:</h3>
 <img src="main.PNG" height="400px" width="500px"><br />
-<h3>Main Page With Frames:</h3><br />
+<h3>Main Page With Frames:</h3>
 <img src="det.png" height="400px" width="500px"><br />
-<h3>Bar Chart:</h3><br />
+<h3>Bar Chart:</h3>
 <img src="bar_chart.png" height="400px" width="500px"><br />
-<h3>Line Chart:</h3><br />
+<h3>Line Chart:</h3>
 <img src="line_chart.png" height="400px" width="500px"><br />
 </div>
 # References
