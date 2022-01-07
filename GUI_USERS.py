@@ -15,6 +15,10 @@ def Users():
     title=tk.Label(root,text="Users")
     title.pack()
     j=0
+
+
+
+    i=22
     for i in mylist:
         frame=tk.Frame(root)
         frame.pack()
